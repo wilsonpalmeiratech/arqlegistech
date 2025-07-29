@@ -1,0 +1,51 @@
+site_name: ArqLegisTech
+site_description: Legado digital seguro. Inteligência arquivística garantida.
+site_author: Wilson Palmeira Júnior
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Introdução: home.md
+  - Apresentação: apresentacao.md
+  - Arquitetura:
+      - Estrutura: arquitetura/estrutura_controladores_servicos.md
+      - Fluxo SIP-AIP-DIP: arquitetura/fluxo_ingestao_sip_aip_dip.md
+      - Rotas Angular: arquitetura/mapa_rotas_angular_backend.md
+  - Funcionalidades:
+      - Requisitos: funcionalidades/requisitos_funcionais_arquivisticos.md
+      - Serviços: funcionalidades/servicos_identificacao_parametrizacao.md
+      - Relatório de Conformidade: funcionalidades/relatorio_conformidade_servicos_normalizacao.md
+  - Políticas:
+      - Controle de Acesso: politicas/politica_controle_acesso.md
+      - Disseminação OAI-PMH: politicas/politica_disseminacao_oai_pmh.md
+      - Eventos de Preservação: politicas/controle_versao_eventos_preservacao.md
+  - Colaboração:
+      - Perfis e Escopos: colaboracao/perfis_escopos_integracao_frontend.md
+      - Infográfico Visual: colaboracao/infografico_visual.md
+      - Wiki Local: colaboracao/instalar_wiki_local.py
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - footnotes
+  - attr_list
+  - def_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
+  - pymdownx.tasklist
