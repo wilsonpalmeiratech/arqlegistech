@@ -3,7 +3,7 @@
 
 ## 📊 2. `relatorio_conformidade_servicos_normalizacao.md`
 
-```markdown
+```
 # Relatório de Conformidade dos Serviços de Normalização
 
 Este relatório apresenta a conformidade dos serviços de normalização de dados e parâmetros, com base nos critérios estabelecidos pelo projeto.

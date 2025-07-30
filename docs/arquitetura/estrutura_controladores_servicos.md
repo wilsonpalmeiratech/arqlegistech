@@ -30,4 +30,4 @@ Separar responsabilidades técnicas facilita:
 - Auditoria por função
 - Testes automatizados por camada
 - Aplicação clara de escopos e rastreabilidade
-- Conformidade com boas práticas de SGSI e arquitetura segura
+- Conformidade com boas práticas de SGSI (Sistema de Gestão da Segurança da Informação) e arquitetura segura

@@ -1,6 +1,6 @@
 # Introdução ao projeto
 
-O **ArqLegisTech** é uma iniciativa para consolidar práticas arquivísticas inteligentes aplicadas à gestão de documentos digitais no setor público. Seu objetivo principal é garantir a preservação, acessibilidade e conformidade legal dos registros eletrônicos, promovendo a confiabilidade e a transparência.
+O **ArqLegisTech** é uma iniciativa para consolidar práticas arquivísticas inteligentes aplicadas à gestão de documentos digitais no setor público e privado. Seu objetivo principal é garantir a preservação, acessibilidade e conformidade legal dos registros eletrônicos, promovendo a confiabilidade e a transparência.
 
 ## Objetivos do Projeto
 

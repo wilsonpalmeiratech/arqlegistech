@@ -6,8 +6,8 @@ Esta pasta reúne os artefatos de apoio ao projeto **ArqLegisTech**, organizados
 
 ## 🗂️ Índice de Documentação
 
-| Arquivo Markdown                                | Finalidade                                                                 |
-|--------------------------------------------------|------------------------------------------------------------------------------|
+| Arquivo                                         | Finalidade                                                                  |
+|-------------------------------------------------|-----------------------------------------------------------------------------|
 | `politica_controle_acesso.md`                   | Política de escopo e perfis de acesso com base em Res. 51, LGPD, OAIS       |
 | `requisitos_funcionais_arquivisticos.md`        | Listagem dos requisitos funcionais e não funcionais implementados           |
 | `mapa_rotas_angular_backend.md`                 | Roteamento por escopo para integração frontend-backend                      |
@@ -16,7 +16,6 @@ Esta pasta reúne os artefatos de apoio ao projeto **ArqLegisTech**, organizados
 | `controle_versao_eventos_preservacao.md`        | Estratégia de versionamento, eventos PREMIS e rastreabilidade arquivística  |
 | `perfis_escopos_integracao_frontend.md`         | Escopos por perfil com aplicação prática na interface Angular               |
 | `fluxo_ingestao_sip_aip_dip.md`                 | Descrição do fluxo técnico SIP → AIP → DIP baseado no modelo OAIS           |
-
 ---
 
 ## 🛡️ Normas, Modelos e Legislações Referenciadas
@@ -40,4 +39,4 @@ Todos os arquivos desta pasta devem ser mantidos sob controle de versão Git e r
 
 **Responsável Técnico:**  
 Equipe ArqLegisTech / Coordenação Arquivística Digital  
-📧 contato@arqlegistech.org
+📧 contato@arqlegistech.com.br
