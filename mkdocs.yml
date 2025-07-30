@@ -4,6 +4,9 @@ site_author: Wilson Palmeira Júnior
 
 theme:
   name: material
+  logo: assets/logo.jpg
+  favicon: assets/favicon.png
+
   language: pt-BR
   palette:
     - scheme: default
@@ -49,3 +52,5 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.tabbed
   - pymdownx.tasklist
+extra_css:
+  - assets/extra.css
